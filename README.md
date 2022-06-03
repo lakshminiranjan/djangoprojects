@@ -1,2 +1,2 @@
 # djangoprojects
-This will print "Hello <userinputname>!!!!" in localhost with backgroung colour "cyan"
+This will print "Hello "userinputname"!!!!" in localhost with backgroung colour "cyan"
